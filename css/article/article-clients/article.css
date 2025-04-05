@@ -1,0 +1,33 @@
+.article-global-clients {
+  display: flex;
+
+  gap: 7.93rem;
+}
+
+.article-global-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  text-align: center;
+  gap: 11px;
+  margin-bottom: 45px;
+}
+
+@media (max-width: 1040px) {
+  .article-global-clients {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .article-global-container {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 800px) {
+  .article-global-clients {
+    gap: 3.93rem;
+  }
+}

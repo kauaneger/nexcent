@@ -1,0 +1,21 @@
+.article-global-learn-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 82px;
+  align-items: center;
+}
+
+.article-global-learn-content h1 {
+  margin-bottom: 11px;
+}
+
+.article-global-learn-content p {
+  margin-bottom: 32px;
+}
+
+@media (max-width: 650px) {
+  .article-global-learn-container {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+}

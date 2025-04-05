@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Headland+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.headerline-1 {
+  font-family: "Headland One", serif;
+  font-weight: 600;
+  font-size: 4rem;
+}
+
+.headerline-2 {
+  font-family: "Headland One", serif;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.headerline-3 {
+  font-family: "Headland One", serif;
+  font-weight: 600;
+  font-size: 1.75rem;
+}
+
+.headerline-4 {
+  font-family: "Headland One", serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.regular-body-1 {
+  font-family: "Headland One", serif;
+  font-weight: 400;
+  font-size: 1.125rem;
+}
+
+.regular-body-2 {
+  font-family: "Headland One", serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.regular-body-3 {
+  font-family: "Headland One", serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+}
+
+.regular-body-4 {
+  font-family: "Headland One", serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+}
+
+.medium-body-1 {
+  font-family: "Headland One", serif;
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+
+.medium-body-2 {
+  font-family: "Headland One", serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.medium-body-3 {
+  font-family: "Headland One", serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+
+.medium-body-4 {
+  font-family: "Headland One", serif;
+  font-weight: 500;
+  font-size: 0.75rem;
+}

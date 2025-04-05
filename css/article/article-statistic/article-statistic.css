@@ -1,0 +1,41 @@
+.article-global-statistic {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 100px;
+}
+
+/* .article-global-statistic-content {
+  display: flex;
+} */
+
+.article-global-statistic-content {
+  display: flex;
+  gap: 100px;
+}
+
+.article-global-statistic-content > div {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.article-global-statistic-div {
+  display: flex;
+  gap: 10px;
+}
+
+@media (max-width: 800px) {
+  .article-global-statistic {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+    gap: 30px;
+  }
+  .article-global-statistic-content {
+    flex-wrap: wrap;
+
+    gap: 30px;
+    align-items: center;
+    justify-items: center;
+  }
+}

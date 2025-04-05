@@ -1,0 +1,128 @@
+:root {
+  /*Neutral*/
+  --Black: #263238;
+  --D_Grey: #4d4d4d;
+  --Grey: #717171;
+  --L_Grey: #89939e;
+  --Grey-blue: #abbed1;
+  --Silver: #f5f7fa;
+  --White: #ffffff;
+
+  /*Primary*/
+
+  --Primary: #28cb8b;
+  --Secondary: #263238;
+  --Info: #2194f3;
+
+  /*Color Shade*/
+  --Shade-1: #43a046;
+  --Shade-2: #388e3b;
+  --Shade-3: #237d31;
+  --Shade-4: #1b5e1f;
+  --Shade-5: #103e13;
+
+  /*Color Tint*/
+  --Tint-1: #66bb69;
+  --Tint-2: #81c784;
+  --Tint-3: #a5d6a7;
+  --Tint-4: #c8e6c9;
+  --Tint-5: #e8f5e9;
+
+  /*Action*/
+
+  --Warning: #fbc02d;
+  --Error: #e53835;
+  --Sucess: #2e7d31;
+}
+
+.black {
+  color: var(--Black);
+}
+
+.d_grey {
+  color: var(--D_Grey);
+}
+
+.grey {
+  color: var(--Grey);
+}
+
+.l_grey {
+  color: var(--L_Grey);
+}
+
+.grey-blue {
+  color: var(--Grey-blue);
+}
+
+.siver {
+  color: var(--Silver);
+}
+
+.white {
+  color: var(--White);
+}
+
+.primary {
+  color: var(--Primary);
+}
+
+.secondary {
+  color: var(--Secondary);
+}
+
+.info {
+  color: var(--Info);
+}
+
+.shade-1 {
+  color: var(--Shade-1);
+}
+
+.shade-2 {
+  color: var(--Shade-2);
+}
+
+.shade-3 {
+  color: var(--Shade-3);
+}
+
+.shade-4 {
+  color: var(--Shade-4);
+}
+
+.shade-5 {
+  color: var(--Shade-5);
+}
+
+.tint-1 {
+  color: var(--Tint-1);
+}
+
+.tint-2 {
+  color: var(--Tint-2);
+}
+
+.tint-3 {
+  color: var(--Tint-3);
+}
+
+.tint-4 {
+  color: var(--Tint-4);
+}
+
+.tint-5 {
+  color: var(--Tint-5);
+}
+
+.warning {
+  color: var(--Warning);
+}
+
+.error {
+  color: var(--Error);
+}
+
+.sucess {
+  color: var(--Sucess);
+}

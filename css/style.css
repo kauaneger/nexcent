@@ -1,0 +1,18 @@
+@import url("./reutilizavel/color.css");
+@import url("./reutilizavel/typography.css");
+@import url("./global/global.css");
+
+/*Header*/
+
+@import url("./header/header.css");
+
+/*Main*/
+
+@import url("./main/main.css");
+
+/*Article*/
+
+@import url("./article/article-clients/article.css");
+@import url("./article/article-menage/article-menage.css");
+@import url("./article/article-learn/article-learn.css");
+@import url("./article/article-statistic/article-statistic.css");
